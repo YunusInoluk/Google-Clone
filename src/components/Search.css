@@ -34,3 +34,6 @@
   background-color: #f8f9fa;
   border: 1px solid #dadce0;
 }
+.search__hideButtons {
+  display: none !important;
+}
